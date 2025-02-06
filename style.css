@@ -219,8 +219,8 @@ body {
     }
 
     .recipe-page {
-        padding: 20px;
-        max-width: 600px;
+        padding: 40px;
+        max-width: 900px;
         align-self: center;
         justify-self: center;
         border-radius: 15px;
